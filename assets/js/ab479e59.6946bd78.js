@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflexbench=self.webpackChunkflexbench||[]).push([[969],{8648:e=>{e.exports=JSON.parse('{"label":"Flexivian","permalink":"/develop-flexbench/blog/tags/flexivian","allTagsPath":"/develop-flexbench/blog/tags","count":1}')}}]);

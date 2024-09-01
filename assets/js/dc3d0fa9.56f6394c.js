@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflexbench=self.webpackChunkflexbench||[]).push([[305],{6028:e=>{e.exports=JSON.parse('{"label":"GSOC","permalink":"/develop-flexbench/blog/tags/gsoc","allTagsPath":"/develop-flexbench/blog/tags","count":1}')}}]);
